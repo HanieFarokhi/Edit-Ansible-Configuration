@@ -1,0 +1,1 @@
+# Script for ssh-copy-id
